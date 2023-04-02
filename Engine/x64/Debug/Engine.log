@@ -1,0 +1,23 @@
+﻿  BufferObject.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\hnsor\OneDrive\Documents\GameEngine\Engine\main.cpp(60,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hnsor\OneDrive\Documents\GameEngine\Engine\main.cpp(61,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hnsor\OneDrive\Documents\GameEngine\Engine\main.cpp(64,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hnsor\OneDrive\Documents\GameEngine\Engine\main.cpp(65,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hnsor\OneDrive\Documents\GameEngine\Engine\main.cpp(66,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hnsor\OneDrive\Documents\GameEngine\Engine\main.cpp(67,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hnsor\OneDrive\Documents\GameEngine\Engine\main.cpp(151,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hnsor\OneDrive\Documents\GameEngine\Engine\main.cpp(197,66): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Shader.cpp
+  stb_image.cpp
+  Texture.cpp
+  Generating Code...
+  glad.c
+  Engine.vcxproj -> C:\Users\hnsor\OneDrive\Documents\GameEngine\x64\Debug\Engine.exe
